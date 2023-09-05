@@ -1,3 +1,3 @@
 # Olympics Data Analysis
 
-Welcome to my Olympic Data Analysis project! This repository contains queries and visualizations for analyzing historical Olympic Games data using SQL and Power BI. Whether you're a sports enthusiast, data scientist, or just curious about the history of the Olympics, this project provides valuable insights and tools for exploring Olympic data.
+This repository contains Power BI reports, SQL scripts, and documentation for an Olympic data analysis project. The project focuses on analyzing historical Olympic data using Power BI for visualization and SQL for data preparation and manipulation.
