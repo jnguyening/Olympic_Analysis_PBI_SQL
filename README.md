@@ -1,3 +1,3 @@
-# Olympics Data Analysis
+# Olympic Games Historical Performance Study
 
-This repository contains Power BI reports, SQL scripts, and documentation for an Olympic data analysis project. The project focuses on analyzing historical Olympic data using Power BI for visualization and SQL for data preparation and manipulation.
+This project provides a comprehensive retrospective of the Olympic Games, transforming a vast historical database into an interactive intelligence tool. Using MS SQL Server, I engineered a specialized view that cleanses "raw" athlete data, utilizing sophisticated string manipulation logic to isolate time-based dimensions and standardizing inconsistent record values. The technical workflow prioritizes data integrity, employing conditional logic to categorize competitors into demographic segments and filtering the dataset to focus specifically on Summer Games performance. The final output is a dynamic Power BI dashboard that allows stakeholders to explore historical medal trends, national success rates, and the impact of athlete demographics on competitive outcomes.
